@@ -1,3 +1,4 @@
 module.exports = {
-    basePath: '/labin/sadec/teams',
+    //basePath: '/labin/sadec/teams',
+    basePath: '',
   }
